@@ -17,6 +17,8 @@ Skills: REACT / JS / HTML / CSS
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Kunalvemra0412)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kunalvemra0412&repo=Kunalverma0412)
+
 
 
 
